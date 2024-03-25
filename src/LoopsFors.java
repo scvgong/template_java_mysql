@@ -18,7 +18,10 @@ public class LoopsFors {
             System.out.println("For count : " + count);
         }
 
-        System.out.println("Hello World!");
-       // return 0; 
+        String strFirst = new String("Hello World");
+        // for (type variableName : arrayName) {
+        // code block to be executed
+        // }
+          
     }
 }

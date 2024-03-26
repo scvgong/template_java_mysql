@@ -21,7 +21,7 @@ public class OopCasts {
         question.put("답항", "1) var name, 2) name=value, 3) set name, 4) name == value");
         question.put("사용자답", 3);
         question.put("Cars",listFirst);
-
+        
         // datatype이 안맞으면 casting 해줘야된다.
         String strFirst = (String)question.get("문제");
         int intSecond = (int)question.get("사용자답");
